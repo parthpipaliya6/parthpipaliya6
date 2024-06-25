@@ -2,7 +2,7 @@
 <h3 align="center">Dream to be a passionate Full-Steck Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=om-savani&label=Profile%20views&color=0e75b6&style=flat" alt="om-savani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthpipaliya6&label=Profile%20views&color=0e75b6&style=flat" alt="parthpipaliya6" /> </p>
 
 - 🔭 I’m currently working on **Full-Steck Developer**
 
